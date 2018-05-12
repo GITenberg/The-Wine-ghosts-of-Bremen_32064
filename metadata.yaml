@@ -1,0 +1,36 @@
+_repo: The-Wine-ghosts-of-Bremen_32064
+_version: 0.1.0
+alternative_title: Phantasien im Bremer ratskeller. English
+contributor:
+  illustrator:
+    agent_name: Gregory, Frank M.
+    birthdate: 1848
+    gutenberg_agent_id: '35648'
+    url: http://www.gutenberg.org/2009/agents/35648
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hauff, Wilhelm
+    birthdate: 1802
+    deathdate: 1827
+    gutenberg_agent_id: '2125'
+    url: http://www.gutenberg.org/2009/agents/2125
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Wilhelm_Hauff
+    - http://en.wikipedia.org/wiki/Wilhelm_Hauff
+description: ''
+gutenberg_issued: '2010-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into English'
+- !lcc 'PT'
+title: The Wine-ghosts of Bremen
+url: http://www.gutenberg.org/ebooks/32064
