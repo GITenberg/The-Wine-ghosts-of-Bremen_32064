@@ -21,6 +21,8 @@ creator:
     - http://de.wikipedia.org/wiki/Wilhelm_Hauff
     - http://en.wikipedia.org/wiki/Wilhelm_Hauff
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32064#The-Wine-ghosts-of-Bremen
 gutenberg_issued: '2010-04-19'
 gutenberg_type: Text
 identifiers:
